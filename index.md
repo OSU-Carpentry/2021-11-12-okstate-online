@@ -21,7 +21,22 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
-
+<a id="s_lc_event_8415531" href="https://okstate.libcal.com/calendar/events/genomicsR">REGISTER</a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_8415531 {
+  background: #FF3300;
+  border: 1px solid #DFDFDF;
+  border-radius: 4px;
+  color: #000000;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_8415531:hover {
+  opacity: 0.9;
+}
+</style>
 {% comment %}
 HEADER
 
@@ -80,21 +95,6 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
-<style>
-#s_lc_event_8415531 {
-  background: #FF7300;
-  border: 1px solid #DFDFDF;
-  border-radius: 4px;
-  color: #000000;
-  font: 14px Arial, Helvetica, Verdana;
-  padding: 8px 20px;
-  cursor: pointer;
-}
-#s_lc_event_8415531:hover {
-  opacity: 0.9;
-}
-</style>
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
