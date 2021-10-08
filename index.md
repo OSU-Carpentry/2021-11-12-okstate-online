@@ -80,6 +80,20 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
+<style>
+#s_lc_event_8415531 {
+  background: #FF7300;
+  border: 1px solid #DFDFDF;
+  border-radius: 4px;
+  color: #000000;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_8415531:hover {
+  opacity: 0.9;
+}
+</style>
 
 
 <h2 id="general">General Information</h2>
