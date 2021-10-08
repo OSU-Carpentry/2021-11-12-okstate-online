@@ -21,10 +21,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
-<a id="s_lc_event_8419725" href="https://okstate.libcal.com/calendar/events/genomics_R">REGISTER</a>
+<a id="s_lc_event_8419769" href="https://okstate.libcal.com/calendar/events/genomicsR">REGISTER</a>
 <!-- Below is optional element styling  //-->
 <style>
-#s_lc_event_8419725 {
+#s_lc_event_8419769 {
   background: #FF3300;
   border: 1px solid #DFDFDF;
   border-radius: 4px;
@@ -33,7 +33,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   padding: 8px 20px;
   cursor: pointer;
 }
-#s_lc_event_8419725:hover {
+#s_lc_event_8419769:hover {
   opacity: 0.9;
 }
 </style>
