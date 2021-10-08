@@ -9,10 +9,10 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Nov 11-12, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Nov 10-11, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:30 am - 4:00 pm CST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2021-11-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2021-11-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2021-11-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2021-11-11        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Peter Hoyt","Stacey Borrego","Sergio Garcia Mora","Annajiat Alim Rasel","Franklin Fondjo Fotou"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Kay Bjornen", "Clarke Iakovakis","Fernanda Proana Cuenca","Brandon Katzir"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["kay.bjornen@okstate.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
@@ -21,10 +21,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
-<a id="s_lc_event_8415531" href="https://okstate.libcal.com/calendar/events/genomicsR">REGISTER</a>
+<a id="s_lc_event_8419725" href="https://okstate.libcal.com/calendar/events/genomics_R">REGISTER</a>
 <!-- Below is optional element styling  //-->
 <style>
-#s_lc_event_8415531 {
+#s_lc_event_8419725 {
   background: #FF3300;
   border: 1px solid #DFDFDF;
   border-radius: 4px;
@@ -33,7 +33,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   padding: 8px 20px;
   cursor: pointer;
 }
-#s_lc_event_8415531:hover {
+#s_lc_event_8419725:hover {
   opacity: 0.9;
 }
 </style>
